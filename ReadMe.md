@@ -9,21 +9,32 @@ My config can be used on Linux or Windows but there will probably be some modifi
 ## Prerequires
 
  [homebrew](brew.sh)
+
 *To install (Linux and MacOS)*
+
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
 Next, install :
+
 **IDE**
+
 [neovim](https://neovim.io/)
+
 `brew install neovim`
 
 [VSCode](https://code.visualstudio.com/)
+
 `brew install --cask visual-studio-code`
 
+
 **Shell**
+
 [fish](https://fishshell.com)
+
 `brew install fish`
+
 *With extensions:*
+
 - [fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish Shell
 
 - [tide](https://github.com/IlanCosman/tide) - A complete colorscheme
@@ -36,3 +47,4 @@ Next, install :
 
 [tmux](https://github.com/tmux/tmux/wiki) - A multiplexer terminal
 `brew install tmux`
+
