@@ -20,24 +20,16 @@ Next, install :
 
 **IDE**
 
-[neovim](https://neovim.io/)
+[neovim](https://neovim.io/) | `brew install neovim`
 
-`brew install neovim`
+[VSCode](https://code.visualstudio.com/) | `brew install --cask visual-studio-code`
 
-[VSCode](https://code.visualstudio.com/)
-
-`brew install --cask visual-studio-code`
-
-[warp](https://warp.dev/)
-
-`brew install warp`
+[warp](https://warp.dev/) | `brew install warp`
 
 
 **Shells**
 
-[fish](https://fishshell.com)
-
-`brew install fish`
+[fish](https://fishshell.com) | `brew install fish`
 
 *With extensions:*
 
@@ -51,34 +43,22 @@ Next, install :
 
 - [z for fish](https://github.com/jethrokuan/z) - To facilitate directory jumping
 
-[tmux](https://github.com/tmux/tmux/wiki) - A multiplexer terminal (used with neovim)
-
-`brew install tmux`
+[tmux](https://github.com/tmux/tmux/wiki) | `brew install tmux`
 
 **Languages**
 
-[node](https://nodejs.org/)
+[node](https://nodejs.org/) | `brew install node`
 
-`brew install node`
-
-[typeScript](https://www.typescriptlang.org/)
-
-`npm install -g typescript`*
+[typeScript](https://www.typescriptlang.org/) | `npm install -g typescript`*
 **require node*
 
-[mySQL](https://www.mysql.com/)
+[mySQL](https://www.mysql.com/) | `brew install mysql `
 
-`brew install mysql `
+[lua](https://www.lua.org/) | `brew install lua`
 
-[lua](https://www.lua.org/) 
+[py](https://www.python.org/) | `brew install python@` + version
 
-`brew install lua`
-
-[py](https://www.python.org/)
-
-`brew install python@` + version
-
-[java](https://www.java.com/fr/)
+[java](https://www.java.com/fr/) | *Install the jdk you want according to your project!*
 
 
 **Font**
