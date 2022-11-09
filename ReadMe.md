@@ -5,6 +5,8 @@ My config can be used on Linux or Windows but there will probably be some modifi
 ## Content
 - a neovim (nightly) config
 - a complete shells config (fish w/ fisher, tide, z for fish, autopairs; tmux)
+- a Warp terminal config
+- a git config
 
 ## Prerequires
 
@@ -26,8 +28,12 @@ Next, install :
 
 `brew install --cask visual-studio-code`
 
+[warp](https://warp.dev/)
 
-**Shell**
+`brew install warp`
+
+
+**Shells**
 
 [fish](https://fishshell.com)
 
@@ -45,6 +51,38 @@ Next, install :
 
 - [z for fish](https://github.com/jethrokuan/z) - To facilitate directory jumping
 
-[tmux](https://github.com/tmux/tmux/wiki) - A multiplexer terminal
+[tmux](https://github.com/tmux/tmux/wiki) - A multiplexer terminal (used with neovim)
+
 `brew install tmux`
+
+**Languages**
+
+[node](https://nodejs.org/)
+
+`brew install node`
+
+[typeScript](https://www.typescriptlang.org/)
+
+`npm install -g typescript`*
+**require node*
+
+[mySQL](https://www.mysql.com/)
+
+`brew install mysql `
+
+[lua](https://www.lua.org/) 
+
+`brew install lua`
+
+[py](https://www.python.org/)
+
+`brew install python@` + version
+
+[java](https://www.java.com/fr/)
+
+
+**Font**
+[MonoLisa Font](https://www.monolisa.dev/) - Personally, this is my favourite font!
+*But, if you want an another font : [Nerd-Fonts](https://github.com/ryanoasis/nerd-fonts)*...
+
 
